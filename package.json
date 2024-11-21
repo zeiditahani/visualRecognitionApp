@@ -9,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@tensorflow/tfjs-react-native": "^1.0.0",
+    "@tensorflow/tfjs-tflite": "^0.0.1-alpha.10",
     "expo": "~51.0.28",
+    "expo-camera": "~15.0.16",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-camera": "^4.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
